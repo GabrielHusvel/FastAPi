@@ -1,6 +1,6 @@
 # FastAPI API 
 
-Dentro do arquivo /src temos vários arquivos .py, cada um contem um APP fastapi com diferentes funções
+Dentro do arquivo /src temos vários arquivos .py, cada um contém um APP fastapi com diferentes funções
 
 <nome_do_arquivo> - <modelo_usado> / <importado_de>
 chat_fake_llm - FakeLLM / LangChain
