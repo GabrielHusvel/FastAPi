@@ -1,0 +1,7 @@
+﻿Critério;HuggingFace;LangChain
+Facilidade de uso;Simples e direto.;Mais complexo.
+Latência e desempenho;Latência menor.;Vai ter alguns processamentos a mais.
+Flexibilidade para modelos;Integração mais simples com um único modelo;Suporta múltiplos modelos.
+Custo e escalabilidade;Menor custo, menos esacalabilidade.;Maior custo, maior escalabilidade.
+Adequação para protótipos;Projetos rápidos.;Projetos complexos.
+Adequação para produção;Útil por sua simplicidade no uso;Útil com múltiplas fontes de modelos.

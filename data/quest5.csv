@@ -1,0 +1,5 @@
+﻿Aspecto;Descrição
+Desempenho e tempo de resposta;Assim como o anterior o tempo de resposta depende do endpoint do HuggingFace e da latência do modelo carregado.              Sobre desempenho só ocnsegui testar usando diretamente do HuggingFace e o desempenho foi bom.
+Consumo de recursos;Modelos grandes  podem consumir bastante memória, cpu e gpu (do  servidor ou local), portanto a limitação seria para computadores mais simples(rodando local).
+Ajuste fino;Não encontrei opções de Fine Tuning.
+Comparação com API HuggingFace;"Não consegui testar, mas a API HuggingFace pode oferecer latências menores visto que estamo ""diretamente com ela"""

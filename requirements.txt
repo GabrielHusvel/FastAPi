@@ -1,0 +1,9 @@
+transformers
+fastapi
+uvicorn
+httpie
+sentencepiece
+sacremoses
+langchain-community
+
+# pip install -U langchain-community

@@ -1,0 +1,5 @@
+﻿Aspecto;Descrição
+Latência de resposta;É importante lembrar que terá o processamento do LangChain e a latência da própria API OpenAI.
+Limites de uso da API;O limite de uso é conforme o modelo selecionado o que escolhi tem 200.00 tokens por minuto e 2.000.000 por dia, 500 requisições por minuto e 10.000 por dia.
+Escalabilidade e custo;A melhor estratégia é usar o modelo necessário para sua tarefa visando o custo-beneficio, assim você pode usar em grande escala e com um custo bem baixo.
+Qualidade das traduções;os modelos da openai tem uma qualidade impecável, para tradução achei muito bom, mas não conseguiria dizer se é melhor ou pior que o Helsinki.
